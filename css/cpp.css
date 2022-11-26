@@ -1,0 +1,21 @@
+#fan {
+    text-align: center;
+    color: azure;
+}
+
+.img{
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+#it,
+.ing {
+    text-align: center;
+}
+.pie,
+.pie-2 {
+    font-weight: bold;
+    font-size: 24px;
+    color: red;
+}
