@@ -1,0 +1,30 @@
+#img {
+    text-align: center;
+    width: auto;
+    height: auto;
+    background-color: blue;
+}
+#sim,
+#ing {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#sim {
+    font-size: 36px;
+    font-weight: bolder;
+    color: darkorchid;
+    background-color: black;
+}
+#ing {
+    color: greenyellow;
+    font-size: 36px;
+}
+#eggs,
+#sugar {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: darkblue;
+    font-weight: bold;
+    background-color: azure;
+}

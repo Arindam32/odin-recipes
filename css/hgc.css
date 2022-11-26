@@ -1,0 +1,30 @@
+.honey,
+.ing,
+.dir{
+    text-align: center;
+    font-size: 24px;
+    color: blueviolet;
+    background-color: black;
+}
+.heat {
+    text-align: center;
+    height: auto;
+    width: auto;
+    background-color: darkgray;
+}
+
+.don, 
+.red{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+    background-color: aqua;
+}
+
+.don{
+    background-color: deepskyblue;
+    color: black;
+}
